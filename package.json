@@ -2,6 +2,23 @@
   "name": "nodejs-sqlite",
   "version": "1.0.0",
   "dependencies": {
+    "pug": "^2.0.4",
     "sqlite3": "^4.1.1"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeraiadhanom/SQLite_Example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeraiadhanom/SQLite_Example/issues"
+  },
+  "homepage": "https://github.com/zeraiadhanom/SQLite_Example#readme",
+  "description": ""
 }
