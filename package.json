@@ -2,7 +2,7 @@
   "name": "nodejs-sqlite",
   "version": "1.0.0",
   "dependencies": {
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "sqlite3": "^4.1.1"
   },
   "scripts": {
